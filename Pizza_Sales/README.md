@@ -5,7 +5,6 @@ This project focuses on analyzing pizza sales data to extract actionable insight
 The goal of the Pizza Sales Analysis is to understand customer preferences, revenue trends, and pizza performance across different categories. The insights derived from this project can help a pizza business optimize its operations, menu, and sales strategies.
 
 ## Objectives
-<br>
 Analyze total revenue, sales, and order trends.<br>
 Identify the top-selling pizzas by quantity and revenue.<br>
 Determine peak order times and days.<br>
@@ -13,7 +12,6 @@ Evaluate performance of pizza categories, sizes, and types.<br>
 Generate actionable insights for improving sales.<br>
 
 ## Key Features
-<br>
 Revenue Analysis: Calculate total sales and revenue.<br>
 Top-Selling Pizzas: Identify pizzas with the highest sales and revenue.<br>
 Category Performance: Analyze performance of different pizza categories.<br>
@@ -21,7 +19,6 @@ Peak Sales Times: Identify days and times with the most orders.<br>
 Pizza Size Analysis: Compare the performance of small, medium, and large pizzas.<br>
 
 ## Technologies Used
-<br>
 SQL <br>
 MySQL / PostgreSQL <br>
 SQL Query Editor (e.g., MySQL Workbench, pgAdmin, or DBeaver) <br>
@@ -33,7 +30,6 @@ git clone https://github.com/yourusername/pizza-sales-analysis.git <br>
 cd pizza-sales-analysis<br>
 
 2. Load the Dataset:
-<br>
 Import the provided CSV files (orders, order_details, pizzas, pizza_types) into your SQL database.<br>
 
 4. Execute Queries:<br>
