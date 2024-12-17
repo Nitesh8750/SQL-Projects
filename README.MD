@@ -3,14 +3,12 @@ This repository contains SQL-based projects that demonstrate data analysis, quer
 
 # Projects
 ## 1. Pizza Sales Analysis
-<br>
 Description:
 <br>
 A comprehensive analysis of pizza sales data to gain insights into sales trends, top-performing pizzas, and customer preferences. The project utilizes SQL queries to extract, transform, and analyze data.
 <br>
 
 # Objectives:
-<br>
 Analyze total sales, revenue, and order trends.<br>
 Identify best-selling pizza types, sizes, and categories.<br>
 Evaluate customer buying behavior and sales performance over time.<br>
@@ -23,14 +21,12 @@ pizzas (Pizza names, sizes, and price details)<br>
 pizza_types (Categories and descriptions of pizza types)<br>
 
 # Key Features:
-<br>
 Use of SELECT, JOIN, and GROUP BY for data extraction.<br>
 Implementation of aggregate functions (SUM, COUNT, AVG) to analyze sales and revenue.<br>
 Subqueries and window functions for advanced analysis.<br>
 Ranking pizzas by performance using ORDER BY and ranking functions.<br>
 
 # Technologies Used:
-<br>
 SQL <br>
 MySQL / PostgreSQL <br>
 
